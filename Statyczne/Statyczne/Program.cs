@@ -10,24 +10,19 @@ namespace Statyczne
     {
         public static double Silnia(this double n)
         {
-            if (n < 1)
-                return 1;
-            else
-                return n * Silnia(n - 1);
+            return (n < 1) ? 1 : n * Silnia(n - 1);
         }
 
         public static double Newton(this double x, double n)
         {
-            double difference = x - n;
-            return x.Silnia() / (n.Silnia() * difference.Silnia());
+            return x.Silnia() / (n.Silnia() * (x-n).Silnia());
         }
     }
     class Program
     {
         static void Main(string[] args)
         {
-            double x = 5;
-            double y = 3;
+            double x = 5, y = 3;
             Console.WriteLine($"{x}! = {x.Silnia()}");
             Console.WriteLine($"N({x})({y}) = {x.Newton(y)}");
             Console.ReadKey();
