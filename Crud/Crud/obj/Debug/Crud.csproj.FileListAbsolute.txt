@@ -1,0 +1,15 @@
+C:\Users\aszewczak\source\repos\Crud\Crud\bin\Debug\Crud.exe.config
+C:\Users\aszewczak\source\repos\Crud\Crud\bin\Debug\Crud.exe
+C:\Users\aszewczak\source\repos\Crud\Crud\bin\Debug\Crud.pdb
+C:\Users\aszewczak\source\repos\Crud\Crud\obj\Debug\Crud.csprojAssemblyReference.cache
+C:\Users\aszewczak\source\repos\Crud\Crud\obj\Debug\Crud.Start.resources
+C:\Users\aszewczak\source\repos\Crud\Crud\obj\Debug\Crud.Oddzial.resources
+C:\Users\aszewczak\source\repos\Crud\Crud\obj\Debug\Crud.Pracownik.resources
+C:\Users\aszewczak\source\repos\Crud\Crud\obj\Debug\Crud.Properties.Resources.resources
+C:\Users\aszewczak\source\repos\Crud\Crud\obj\Debug\Crud.Stanowisko.resources
+C:\Users\aszewczak\source\repos\Crud\Crud\obj\Debug\Crud.csproj.GenerateResource.cache
+C:\Users\aszewczak\source\repos\Crud\Crud\obj\Debug\Crud.csproj.CoreCompileInputs.cache
+C:\Users\aszewczak\source\repos\Crud\Crud\obj\Debug\Crud.exe
+C:\Users\aszewczak\source\repos\Crud\Crud\obj\Debug\Crud.pdb
+C:\Users\aszewczak\source\repos\Crud\Crud\obj\Debug\Crud.Adres.resources
+C:\Users\aszewczak\source\repos\Crud\Crud\obj\Debug\Crud.StanowiskoPracownika.resources

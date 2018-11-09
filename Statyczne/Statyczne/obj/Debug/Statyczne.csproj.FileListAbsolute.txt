@@ -1,0 +1,7 @@
+C:\Users\aszewczak\source\repos\Statyczne\Statyczne\bin\Debug\Statyczne.exe.config
+C:\Users\aszewczak\source\repos\Statyczne\Statyczne\bin\Debug\Statyczne.exe
+C:\Users\aszewczak\source\repos\Statyczne\Statyczne\bin\Debug\Statyczne.pdb
+C:\Users\aszewczak\source\repos\Statyczne\Statyczne\obj\Debug\Statyczne.csprojAssemblyReference.cache
+C:\Users\aszewczak\source\repos\Statyczne\Statyczne\obj\Debug\Statyczne.csproj.CoreCompileInputs.cache
+C:\Users\aszewczak\source\repos\Statyczne\Statyczne\obj\Debug\Statyczne.exe
+C:\Users\aszewczak\source\repos\Statyczne\Statyczne\obj\Debug\Statyczne.pdb
